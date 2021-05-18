@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43e5b4771a2b8535a79572cb73da528b",
+    "revision": "86655e931e67f34f13accc7b35e098d7",
     "url": "/kokomocoin/index.html"
   },
   {
-    "revision": "0f74994a3e9e6f5a4cb0",
+    "revision": "26f1fdc184097d5d2760",
     "url": "/kokomocoin/static/css/main.2556104b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kokomocoin/static/js/2.27ac39e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f74994a3e9e6f5a4cb0",
-    "url": "/kokomocoin/static/js/main.4939e486.chunk.js"
+    "revision": "26f1fdc184097d5d2760",
+    "url": "/kokomocoin/static/js/main.bb950987.chunk.js"
   },
   {
     "revision": "77a2d21893719b8c5b0f",

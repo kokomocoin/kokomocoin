@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kokomocoin/static/css/main.2556104b.chunk.css",
-    "main.js": "/kokomocoin/static/js/main.4939e486.chunk.js",
-    "main.js.map": "/kokomocoin/static/js/main.4939e486.chunk.js.map",
+    "main.js": "/kokomocoin/static/js/main.bb950987.chunk.js",
+    "main.js.map": "/kokomocoin/static/js/main.bb950987.chunk.js.map",
     "runtime-main.js": "/kokomocoin/static/js/runtime-main.6af5f16a.js",
     "runtime-main.js.map": "/kokomocoin/static/js/runtime-main.6af5f16a.js.map",
     "static/js/2.27ac39e3.chunk.js": "/kokomocoin/static/js/2.27ac39e3.chunk.js",
     "static/js/2.27ac39e3.chunk.js.map": "/kokomocoin/static/js/2.27ac39e3.chunk.js.map",
     "index.html": "/kokomocoin/index.html",
-    "precache-manifest.a957bafaa02efbd55b563cd653cf5807.js": "/kokomocoin/precache-manifest.a957bafaa02efbd55b563cd653cf5807.js",
+    "precache-manifest.a2ffdf365adcbe4465f6c714335f70fc.js": "/kokomocoin/precache-manifest.a2ffdf365adcbe4465f6c714335f70fc.js",
     "service-worker.js": "/kokomocoin/service-worker.js",
     "static/css/main.2556104b.chunk.css.map": "/kokomocoin/static/css/main.2556104b.chunk.css.map",
     "static/js/2.27ac39e3.chunk.js.LICENSE.txt": "/kokomocoin/static/js/2.27ac39e3.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.6af5f16a.js",
     "static/js/2.27ac39e3.chunk.js",
     "static/css/main.2556104b.chunk.css",
-    "static/js/main.4939e486.chunk.js"
+    "static/js/main.bb950987.chunk.js"
   ]
 }
