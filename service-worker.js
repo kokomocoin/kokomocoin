@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kokomocoin/precache-manifest.8d1674cf324619c7a40a7ed0c8a98624.js"
+  "/kokomocoin/precache-manifest.a957bafaa02efbd55b563cd653cf5807.js"
 );
 
 self.addEventListener('message', (event) => {
